@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "verified_at": "2026-09-22",
+  "sources": [
+    {
+      "id": "enisa_cyber_hygiene",
+      "title": "Cyber Hygiene",
+      "publisher": "ENISA",
+      "scope": "global baseline",
+      "url": "https://www.enisa.europa.eu/topics/cyber-hygiene",
+      "status": "primary"
+    },
+    {
+      "id": "cisa_secure_our_world",
+      "title": "Secure Our World — 4 Easy Ways to Stay Safe Online",
+      "publisher": "CISA",
+      "scope": "global-style public guidance",
+      "url": "https://www.cisa.gov/sites/default/files/2024-09/Secure-Our-World-4-Easy-Ways-Stay-Safe-Online-Tip-Sheet.pdf",
+      "status": "supporting"
+    },
+    {
+      "id": "ncsc_top_tips",
+      "title": "Top tips for staying secure online",
+      "publisher": "UK NCSC",
+      "scope": "public guidance",
+      "url": "https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online",
+      "status": "supporting"
+    },
+    {
+      "id": "nist_sp800_63b_4",
+      "title": "NIST SP 800-63B — Authentication and Authenticator Management",
+      "publisher": "NIST",
+      "scope": "authentication",
+      "url": "https://pages.nist.gov/800-63-4/sp800-63b.html",
+      "status": "primary"
+    },
+    {
+      "id": "enisa_public_dns",
+      "title": "Security and Privacy for public DNS Resolvers",
+      "publisher": "ENISA",
+      "scope": "protective/public DNS context",
+      "url": "https://www.enisa.europa.eu/publications/security-and-privacy-for-public-dns-resolvers",
+      "status": "supporting"
+    },
+    {
+      "id": "certlv_services",
+      "title": "CERT.LV pakalpojumi",
+      "publisher": "CERT.LV",
+      "scope": "Latvia localisation",
+      "url": "https://www.cert.lv/lv/pakalpojumi",
+      "status": "local-primary"
+    },
+    {
+      "id": "certlv_incidents",
+      "title": "Incidenti",
+      "publisher": "CERT.LV",
+      "scope": "Latvia incident reporting",
+      "url": "https://www.cert.lv/lv/incidenti",
+      "status": "local-primary"
+    },
+    {
+      "id": "ncsc_bec",
+      "title": "Business email compromise: defending your organisation",
+      "publisher": "UK NCSC",
+      "scope": "payment fraud and independent verification",
+      "url": "https://www.ncsc.gov.uk/pdfs/guidance/business-email-compromise-defending-your-organisation.pdf",
+      "status": "supporting"
+    },
+    {
+      "id": "ftc_romance_scams",
+      "title": "What To Know About Romance Scams",
+      "publisher": "US Federal Trade Commission",
+      "scope": "romance and trust-based scams",
+      "url": "https://consumer.ftc.gov/articles/what-know-about-romance-scams",
+      "status": "supporting"
+    }
+  ]
+}

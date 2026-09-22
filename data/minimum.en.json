@@ -1,0 +1,220 @@
+{
+  "schema_version": 1,
+  "language": "en",
+  "verified_at": "2026-09-22",
+  "rules": [
+    {
+      "id": "C01",
+      "title": "Start important actions yourself",
+      "guidance": "If a message or link asks you to sign in, pay, confirm identity or enter sensitive data, do not continue from the supplied link. Open the official app or site yourself.",
+      "sources": [
+        "enisa_cyber_hygiene",
+        "ncsc_top_tips"
+      ]
+    },
+    {
+      "id": "C02",
+      "title": "Verify the payment recipient",
+      "guidance": "Before paying, verify the recipient, amount and purpose. Treat unexpected changes to bank details or payment instructions as a reason to verify independently.",
+      "sources": [
+        "ncsc_bec"
+      ]
+    },
+    {
+      "id": "C03",
+      "title": "Urgency means pause",
+      "guidance": "Pressure, threats and “act now” language are common social-engineering tools. Slow down before doing anything consequential.",
+      "sources": [
+        "cisa_secure_our_world",
+        "enisa_cyber_hygiene"
+      ]
+    },
+    {
+      "id": "C04",
+      "title": "Verify unusual requests another way",
+      "guidance": "If a colleague, bank, manager, friend or relative unexpectedly asks for money, codes or sensitive data, verify through a separate trusted channel.",
+      "sources": [
+        "enisa_cyber_hygiene",
+        "ncsc_bec"
+      ]
+    },
+    {
+      "id": "C05",
+      "title": "A message does not prove who sent it",
+      "guidance": "Names, logos, caller IDs, email addresses and profile images can be spoofed or copied. Verify identity independently when the request matters.",
+      "sources": [
+        "enisa_cyber_hygiene"
+      ]
+    },
+    {
+      "id": "C06",
+      "title": "When in doubt, verify first",
+      "guidance": "Uncertainty is a reason to stop and check, not a reason to take a risk.",
+      "sources": [
+        "enisa_cyber_hygiene"
+      ]
+    },
+    {
+      "id": "C07",
+      "title": "Never share passwords, PINs or verification codes",
+      "guidance": "Do not send, dictate or enter passwords, PINs or one-time verification codes because another person tells you to.",
+      "sources": [
+        "enisa_cyber_hygiene",
+        "nist_sp800_63b_4"
+      ]
+    },
+    {
+      "id": "C08",
+      "title": "Use a unique password for every account",
+      "guidance": "Password reuse lets one breach threaten many accounts.",
+      "sources": [
+        "enisa_cyber_hygiene",
+        "ncsc_top_tips"
+      ]
+    },
+    {
+      "id": "C09",
+      "title": "Use a long passphrase or generated password",
+      "guidance": "Prefer long, unique and unpredictable passwords. A password manager can generate them; if you must remember one, use a long passphrase not based on personal facts.",
+      "sources": [
+        "nist_sp800_63b_4",
+        "ncsc_top_tips"
+      ]
+    },
+    {
+      "id": "C10",
+      "title": "Store passwords safely",
+      "guidance": "Use a password manager instead of unprotected notes, documents, email drafts or contact fields.",
+      "sources": [
+        "ncsc_top_tips"
+      ]
+    },
+    {
+      "id": "C11",
+      "title": "Use passkeys or multi-factor authentication",
+      "guidance": "Use a passkey or other phishing-resistant method where available. Otherwise enable multi-factor or two-step verification.",
+      "sources": [
+        "nist_sp800_63b_4",
+        "enisa_cyber_hygiene"
+      ]
+    },
+    {
+      "id": "C12",
+      "title": "Protect your primary email account",
+      "guidance": "Your primary email is often the recovery path for other accounts. Give it stronger authentication and secure recovery settings.",
+      "sources": [
+        "enisa_cyber_hygiene",
+        "ncsc_top_tips"
+      ]
+    },
+    {
+      "id": "C13",
+      "title": "Review important account security settings",
+      "guidance": "Periodically review sign-in methods, recovery information, active sessions and security notifications.",
+      "sources": [
+        "enisa_cyber_hygiene"
+      ]
+    },
+    {
+      "id": "C14",
+      "title": "Remove old devices and unnecessary access",
+      "guidance": "Revoke sessions, devices and connected applications you no longer use or recognize.",
+      "sources": [
+        "enisa_cyber_hygiene"
+      ]
+    },
+    {
+      "id": "C15",
+      "title": "Lock phones and computers",
+      "guidance": "Use a strong device PIN/password or biometrics and enable automatic locking.",
+      "sources": [
+        "enisa_cyber_hygiene"
+      ]
+    },
+    {
+      "id": "C16",
+      "title": "Keep devices and software updated",
+      "guidance": "Install security updates promptly and enable automatic updates where practical.",
+      "sources": [
+        "enisa_cyber_hygiene",
+        "ncsc_top_tips"
+      ]
+    },
+    {
+      "id": "C17",
+      "title": "Keep built-in protection enabled",
+      "guidance": "Keep supported anti-malware, firewall and platform security protections enabled and current. Install mobile apps from trusted official stores.",
+      "sources": [
+        "enisa_cyber_hygiene"
+      ]
+    },
+    {
+      "id": "C18",
+      "title": "Secure home Wi-Fi and the router",
+      "guidance": "Change default administrator credentials, keep router firmware current, use modern Wi-Fi security such as WPA3 where supported, and disable unnecessary remote administration.",
+      "sources": [
+        "enisa_cyber_hygiene"
+      ]
+    },
+    {
+      "id": "C19",
+      "title": "Make backups you can restore",
+      "guidance": "Keep important data in separate backups and periodically test that recovery actually works.",
+      "sources": [
+        "enisa_cyber_hygiene",
+        "ncsc_top_tips"
+      ]
+    },
+    {
+      "id": "C20",
+      "title": "Consider protective DNS or equivalent network filtering",
+      "guidance": "A reputable protective DNS or equivalent network-level service can block access to known malicious domains. Treat it as an additional control, not a guarantee.",
+      "sources": [
+        "enisa_public_dns"
+      ]
+    },
+    {
+      "id": "C21",
+      "title": "Treat unexpected attachments and QR codes with caution",
+      "guidance": "Unexpected attachments, links and QR codes can lead to malware or phishing. Verify the sender and context before opening them.",
+      "sources": [
+        "enisa_cyber_hygiene",
+        "cisa_secure_our_world"
+      ]
+    },
+    {
+      "id": "C22",
+      "title": "Do not install remote-access software because a stranger tells you to",
+      "guidance": "Scammers may ask you to install remote-control or “security” software. Do not hand control of your device to an unsolicited caller or message sender.",
+      "sources": [
+        "enisa_cyber_hygiene"
+      ]
+    },
+    {
+      "id": "C23",
+      "title": "Polished design is not proof of trust",
+      "guidance": "A fraudulent website, profile or advertisement can look professional. Verify the domain, source and whether you initiated the action.",
+      "sources": [
+        "cisa_secure_our_world",
+        "ncsc_bec"
+      ]
+    },
+    {
+      "id": "C24",
+      "title": "Be cautious with too-good-to-be-true offers and emotional stories",
+      "guidance": "Scams often use extraordinary investment returns, inheritance stories, romance or emergencies to create trust and pressure before asking for money or data.",
+      "sources": [
+        "ftc_romance_scams"
+      ]
+    },
+    {
+      "id": "C25",
+      "title": "Report and respond quickly",
+      "guidance": "Stop the activity, preserve relevant evidence, secure affected accounts and contact the relevant service provider or financial institution. Report the incident to the appropriate national cyber authority or law-enforcement channel where applicable.",
+      "sources": [
+        "cisa_secure_our_world",
+        "enisa_cyber_hygiene"
+      ]
+    }
+  ]
+}
