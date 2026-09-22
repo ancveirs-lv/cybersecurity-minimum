@@ -21,7 +21,7 @@ This is a public-interest cybersecurity baseline for everyday digital life. The 
 - 03. Urgency means pause.
 - 04. Verify unusual requests another way.
 - 05. A message does not prove who sent it.
-06. When in doubt, verify first.
+- 06. When in doubt, verify first.
 
 ### 07–14 · Protect accounts
 
@@ -32,7 +32,7 @@ This is a public-interest cybersecurity baseline for everyday digital life. The 
 - 11. Use passkeys or multi-factor authentication.
 - 12. Protect your primary email account.
 - 13. Review important account security settings.
-14. Remove old devices and unnecessary access.
+- 14. Remove old devices and unnecessary access.
 
 ### 15–20 · Protect devices and networks
 
@@ -41,18 +41,18 @@ This is a public-interest cybersecurity baseline for everyday digital life. The 
 - 17. Keep built-in protection enabled.
 - 18. Secure home Wi-Fi and the router.
 - 19. Make backups you can restore.
-20. Consider protective DNS or equivalent network filtering.
+- 20. Consider protective DNS or equivalent network filtering.
 
 ### 21–24 · Recognise fraud
 
 - 21. Treat unexpected attachments and QR codes with caution.
 - 22. Do not install remote-access software because a stranger tells you to.
 - 23. Polished design is not proof of trust.
-24. Be cautious with too-good-to-be-true offers and emotional stories.
+- 24. Be cautious with too-good-to-be-true offers and emotional stories.
 
 ### 25 · Know what to do
 
-25. Report and respond quickly.
+- 25. Report and respond quickly.
 
 Full explanations are in [the global English guide](docs/en/cybersecurity-minimum.md).
 

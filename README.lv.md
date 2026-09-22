@@ -21,7 +21,7 @@
 - 03. Steidzamība nozīmē pauzi.
 - 04. Aizdomīgu pieprasījumu pārbaudi citā veidā.
 - 05. Ziņa nepierāda, kas to sūtījis.
-06. Ja šaubies — vispirms pārbaudi.
+- 06. Ja šaubies — vispirms pārbaudi.
 
 ### 07–14 · Sargā kontus
 
@@ -32,7 +32,7 @@
 - 11. Ieslēdz passkey vai divu soļu apstiprināšanu.
 - 12. Īpaši sargā galveno e-pastu.
 - 13. Pārskati svarīgo kontu drošības iestatījumus.
-14. Atvieno vecās ierīces un nevajadzīgas piekļuves.
+- 14. Atvieno vecās ierīces un nevajadzīgas piekļuves.
 
 ### 15–20 · Sargā ierīces un tīklu
 
@@ -41,18 +41,18 @@
 - 17. Pārbaudi, vai ierīces aizsardzība ir ieslēgta.
 - 18. Sargā mājas Wi‑Fi un rūteri.
 - 19. Veido rezerves kopijas, kuras vari atjaunot.
-20. Papildini aizsardzību ar CERT.LV/NIC.LV DNS ugunsmūri.
+- 20. Papildini aizsardzību ar CERT.LV/NIC.LV DNS ugunsmūri.
 
 ### 21–24 · Atpazīsti krāpšanu
 
 - 21. Neatver negaidītus vai aizdomīgus pielikumus un QR kodus.
 - 22. Neinstalē programmas pēc sveša cilvēka norādes.
 - 23. Glīts dizains nepierāda uzticamību.
-24. Sargies no pārāk labiem piedāvājumiem un emocionāliem stāstiem.
+- 24. Sargies no pārāk labiem piedāvājumiem un emocionāliem stāstiem.
 
 ### 25 · Zini, ko darīt
 
-25. Ziņo un rīkojies uzreiz.
+- 25. Ziņo un rīkojies uzreiz.
 
 Pilnie skaidrojumi: [Kiberdrošības minimums — detalizēti](docs/lv/kiberdrosibas-minimums.md).
 

@@ -14,6 +14,13 @@ class Tests(unittest.TestCase):
         en=json.loads((ROOT/'data/minimum.en.json').read_text())
         blob=json.dumps(en,ensure_ascii=False).lower()
         self.assertNotIn('cert.lv',blob); self.assertNotIn('latvij',blob)
+    def test_readme_rule_lists(self):
+        import re
+        for filename in ("README.md", "README.lv.md"):
+            text=(ROOT/filename).read_text(encoding="utf-8")
+            ids=re.findall(r"^- (\d{2})\. ",text,re.MULTILINE)
+            self.assertEqual(ids,[f"{i:02d}" for i in range(1,26)])
+
     def test_latvia_localisation(self):
         lv=json.loads((ROOT/'data/minimum.lv.json').read_text())['rules']
         self.assertIn('CERT.LV',next(x for x in lv if x['id']=='C20')['guidance'])
