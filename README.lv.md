@@ -56,6 +56,12 @@
 
 Pilnie skaidrojumi: [Kiberdrošības minimums — detalizēti](docs/lv/kiberdrosibas-minimums.md).
 
+## Paaugstināta riska draudu profili
+
+25 noteikumu minimums paredzēts ikdienas riskam. Ja ir ticams mērķētas novērošanas, algotas spiegprogrammatūras, Pegasus/Predator/Graphite vai datu korelācijas/reidentifikācijas risks, turpini ar [Advanced Digital Threat Defense](https://github.com/ancveirs-lv/advanced-digital-threat-defense).
+
+Šis projekts apzināti nošķir **ierīces kompromitēšanu** no **datu korelācijas/secinājumu riska** un Palantir/Foundry izmanto tikai kā datu savienošanas atsauci, nevis kā ļaunprogrammatūru.
+
 ## Lokalizācijas modelis
 
 `globālais kontroles ID → globālā vadlīnija → lokālā ieviešanas piezīme`

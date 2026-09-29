@@ -56,6 +56,12 @@ This is a public-interest cybersecurity baseline for everyday digital life. The 
 
 Full explanations are in [the global English guide](docs/en/cybersecurity-minimum.md).
 
+## Advanced threat profiles
+
+The 25-rule baseline is for everyday risk. For credible targeted surveillance, mercenary spyware, Pegasus/Predator/Graphite research, or data-correlation/re-identification concerns, continue with [Advanced Digital Threat Defense](https://github.com/ancveirs-lv/advanced-digital-threat-defense).
+
+That project deliberately separates **device compromise** from **data correlation/inference** and uses Palantir/Foundry only as a data-fusion reference, not as malware.
+
 ## Localisation model
 
 `global control ID → global guidance → local implementation note`
